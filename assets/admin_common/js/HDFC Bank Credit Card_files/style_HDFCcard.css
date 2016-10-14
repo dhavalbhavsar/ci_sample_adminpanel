@@ -1,0 +1,124 @@
+body {
+	font-size: 11px;
+	color: #666666;
+	text-decoration: none;
+	font-weight: normal;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0px;
+	background-color: #FFFFFF;
+}
+.mainBorder {
+	border: 1px dotted #293C7E;
+}
+.greyTxt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	text-decoration: none;
+	text-align: left;
+}
+.formLabel {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: #027DA6;
+	text-decoration: none;
+}
+.txtBox {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	border: 1px solid #17266D;
+}
+
+
+li {
+	list-style-position: inside;
+	list-style-image: url(bullet.gif);
+}
+.cardNumTxtBox {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	border: 1px solid #17266D;
+	width: 40px;
+}
+.subHeadingWithoutBorder {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #17266D;
+	text-decoration: none;
+	font-weight: bold;
+	text-align: left;
+	border-top-style: none;
+	border-right-style: none;
+	border-bottom-style: none;
+	border-left-style: none;
+}
+.simpleSteps {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #17266D;
+	text-decoration: none;
+}
+.greyText {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #333333;
+	text-decoration: none;
+	text-align: left;
+}
+.formLabel1 {
+
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #17266D;
+	text-decoration: none;
+}
+.steps {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	font-weight: bold;
+	color: #17266D;
+	text-decoration: none;
+}
+.redTxt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FF0000;
+}
+.largeRedTxt {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FF0000;
+	font-weight: bold;
+}
+
+.input {
+	background-image: url(pay_button.gif);border: none;width: 64px;height: 20px;cursor: hand;
+}
+
+.topTableBorder {
+	border: 1px solid #7E88B7;
+	background-color: #EEF0F7;
+}
+.bottomTableBorder {
+	border-right-width: 1px;
+	border-left-width: 1px;
+	border-right-style: solid;
+	border-left-style: solid;
+	border-right-color: #FA0304;
+	border-left-color: #FA0304;
+	border-bottom-width: 1px;
+	border-bottom-style: solid;
+	border-bottom-color: #FA0304;
+}
+.payNowButton {
+
+	background-image: url(paynow_button.gif);border: none;width: 64px;height: 20px;cursor: hand; background-color: #FFFFFF;
+}
